@@ -19,6 +19,7 @@ After installation, navigate to the `bin` directory and start the server:
 
 ```sh
 ./activemq start
+```
 
 ### **2️⃣ Install ActiveMQ**
 Download Python from python.org.
@@ -28,14 +29,16 @@ Restart your PC, then run:
 ```sh
 python --version
 python -m pip install stomp.py
+```
 
 ### **3️⃣ Run the Services**
 Start the Consumer (Receiver)
 
 ```sh
 python consumer.py
-
+```
 Send Messages Using the Producer (Sender)
 
 ```sh
 python producer.py
+```

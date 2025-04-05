@@ -21,7 +21,7 @@ After installation, navigate to the `bin` directory and start the server:
 ./activemq start
 ```
 
-### **2️⃣ Install ActiveMQ**
+### **2️⃣ Install Python**
 Download Python from python.org.
 During installation, check the box "Add Python to PATH".
 Restart your PC, then run:
